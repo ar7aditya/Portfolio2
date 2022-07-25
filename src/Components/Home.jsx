@@ -12,7 +12,7 @@ import SliderComponent from "./Slider";
 
 const Home = () => {
   useEffect(() => {
-    document.title = " Mustafizur - Home ";
+    document.title = " AR7 - Home ";
     window.scrollTo(0, 0);
   }, []);
   return (

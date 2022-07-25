@@ -8,7 +8,7 @@ const Skills = () => {
   const [data, setData] = useState()
   useEffect(() => {
     window.scrollTo(0, 0)
-    document.title = ' Mustafizur - Skills '
+    document.title = ' AR7 - Skills '
   }, [])
   const Filter = (val) => {
     setData(val.target.value)

@@ -17,7 +17,7 @@ const AboutImg = () => {
 }
 const About = () => {
   useEffect(() => {
-    document.title = ' Mustafizur - About '
+    document.title = ' AR7 - about'
     window.scrollTo(0, 0)
   }, [])
   const year = new Date().getFullYear()

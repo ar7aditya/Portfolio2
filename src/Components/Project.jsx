@@ -7,7 +7,7 @@ import FolderOpenIcon from '@material-ui/icons/FolderOpen'
 const Project = () => {
   useEffect(() => {
     window.scrollTo(0, 0)
-    document.title = ' Mustafizur - Projects '
+    document.title = ' AR7-projects '
   }, [])
   const SingleProject = (prop) => {
     return (

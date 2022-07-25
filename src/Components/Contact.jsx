@@ -13,7 +13,7 @@ const Contact = () => {
   })
   useEffect(() => {
     window.scrollTo(0, 0)
-    document.title = 'Mustafizur - Contact'
+    document.title = 'AR7 - Contact'
   }, [])
   const TakeData = (val) => {
     const { name, value } = val.target

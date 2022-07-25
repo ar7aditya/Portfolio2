@@ -6,7 +6,7 @@ import Faq from './Faq'
 
 const Services = () => {
   useEffect(() => {
-    document.title = ' Mustafizur - Services '
+    document.title = ' AR7 - Services '
     window.scrollTo(0, 0)
   }, [])
   const SingleService = (prop) => {
