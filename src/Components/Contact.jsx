@@ -36,7 +36,7 @@ const Contact = () => {
           <div data-aos="fade-left" id="ContactContentWrapper">
             <form
               onSubmit={ShowData}
-              action="https://formspree.io/f/xpzkabqj"
+              action="https://formspree.io/f/xlevrbyv"
               method="POST"
             >
               <div id="InputFields">

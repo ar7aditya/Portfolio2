@@ -5,6 +5,8 @@ import AboutWevDev from './img/AboutWebDev.png'
 import WebDes from './img/AboutWebDes.png'
 import ResDes from './img/AboutResDes.png'
 import BugFix from './img/AboutBugFix.png'
+// import InstagramIcon from '@mui/icons-material/Instagram';
+// import GitHubIcon from '@mui/icons-material/GitHub';
 
 const AboutImg = () => {
   return (
@@ -31,31 +33,13 @@ const About = () => {
             <AboutImg />
             <div id="AboutPageDesc">
               <div id="Desc" data-aos="fade-right">
-                <h2>About Me</h2>
+                <h2>About Me <span id='logo'></span></h2>
                 <p>
-                  Hi there, Hope you are doing well. I am Mustafizur. I am a Junior Full
+                  Hi there, Hope you are doing well. I am Aditya. I am a Junior Full
                   stack web developer. I love developing web Site. I have more than {myExperience} years of
                   experinece as a Junior Full stack web developer. I have Designed and Developed
                   many websites. I am
-                  pretty much comfortable doing these things. My coding is
-                  w3validated, bug free and SEO optimised.
-                </p>
-                <p>
-                  I am a young guy. I am {myAge} years old. I have been coding
-                  since the start of 2019. I have a nice experience in Javascript.
-                  I really love Javascript. I have a pretty much nice skill on
-                  React Js. Node Js, MongoDB, WordPress, Most of my projects are done with React Js. I am
-                  also good in NodeJs, MongoDB, express, Sass, Redux and More.
-                </p>
-                <p>
-                  I can make nice designs. Which will be responsive and pixel
-                  perfect. I can make useful functionalities which will be bug
-                  free and user friendly. I use all the modern, trending and
-                  powerful technologies for building projects. Which makes the
-                  application more faster and user friendly. And My designs are
-                  compatible in every type of browsers. Cause I use sass instead
-                  of writing only css. So hire me to create something which you
-                  are gonna be proud of!
+                  pretty much comfortable doing these things.
                 </p>
               </div>
               <div data-aos="fade-left" id="AboutTable">
@@ -86,6 +70,7 @@ const About = () => {
               </div>
             </div>
           </div>
+          <div><a href='https://ar7-personal-blog.herokuapp.com/about'>Some educational ans co-curricular achievements</a></div>
         </div>
       </section>
       <Footer />

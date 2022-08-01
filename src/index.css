@@ -571,7 +571,7 @@ footer {
   background: #242424;
   color: whitesmoke;
   letter-spacing: 2px;
-  font-family: "Yusei Magic", sans-serif;
+  /* font-family: "Yusei Magic", sans-serif; */
 }
 
 #SectionTitle {
@@ -1205,7 +1205,7 @@ footer {
   border: 1px solid #ddd;
   resize: none;
   border-radius: 3px;
-  font-family: "Yusei Magic", sans-serif;
+  /* font-family: "Yusei Magic", sans-serif; */
   font-size: 1.3rem;
   -webkit-box-shadow: inset 2px 3px 5px -1px #ddd;
           box-shadow: inset 2px 3px 5px -1px #ddd;
@@ -1233,7 +1233,7 @@ footer {
   color: #f50057;
   border: 2px solid #f50057;
   border-radius: 5px;
-  font-family: "Yusei Magic", sans-serif;
+  /* font-family: "Yusei Magic", sans-serif; */
   margin: auto;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -1286,7 +1286,7 @@ footer {
 
 #Filter select {
   padding: 5px 20px;
-  font-family: "Yusei Magic", sans-serif;
+  /* font-family: "Yusei Magic", sans-serif; */
   outline: none;
   background: #dddddd;
   border-radius: 3px;
@@ -1402,7 +1402,7 @@ footer {
   font-size: 1.2rem;
   background: transparent;
   border: 2px solid white;
-  font-family: "Yusei Magic", sans-serif;
+  /* font-family: "Yusei Magic", sans-serif; */
   color: white;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -1468,7 +1468,7 @@ footer {
   width: 100%;
   padding: 10px 5px;
   font-size: 1.1rem;
-  font-family: "Yusei Magic", sans-serif;
+  /* font-family: "Yusei Magic", sans-serif; */
   background: transparent;
   color: white;
   outline: none;

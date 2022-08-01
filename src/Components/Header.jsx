@@ -102,7 +102,7 @@ const Home = () => {
                 target="_blank"
                 href="https://drive.google.com/file/d/1OMAsFdRHwWjOfKULGNlxzS1AuMu9ZW-I/view?usp=sharing"
               >
-                 Cover Latter
+                 Cover Letter
               </a>
             </div>
           </div>

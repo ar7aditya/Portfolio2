@@ -1,9 +1,9 @@
-import React from 'react'
+import React,{useEffect} from 'react'
 import { Link } from 'react-router-dom'
 import AboutSrc from './img/ar7/aboutme.jpeg'
 
 const ShortAbout = () => {
-  window.onload=function(){
+  useEffect(() => {
     const mainCard = document.querySelector('#AboutImage')
   mainCard.addEventListener('mouseover', (event) => {
     const xAxis = (window.innerWidth / 2 - event.pageX) / 15
@@ -13,7 +13,7 @@ const ShortAbout = () => {
   mainCard.addEventListener('mouseleave', () => {
     mainCard.style.transform = 'rotateX(0deg) rotateY(0deg)'
   })
-  }
+  },[])
  
   const year = new Date().getFullYear()
   const myExperience = year - 2021

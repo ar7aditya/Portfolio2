@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import ServiceData from './ServiceData'
 import Title from './Title'
 import Footer from './Footer'
-import Faq from './Faq'
+// import Faq from './Faq'
 
 const Services = () => {
   useEffect(() => {
@@ -44,7 +44,7 @@ const Services = () => {
           </div>
         </div>
       </section>
-      <Faq />
+      {/* <Faq /> */}
       <Footer />
     </>
   )
