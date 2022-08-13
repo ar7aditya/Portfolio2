@@ -9,7 +9,7 @@ import Services from './Components/Services'
 import Contact from './Components/Contact'
 import Top from './Components/Top'
 import ErrorPage from './Components/Error'
-// import Loader from './Components/Loader'
+import Loader from './Components/Loader'
 // import Blogs from './Components/Blogs'
 
 const App = () => {
@@ -34,7 +34,7 @@ const App = () => {
   })
   return (
     <>
-      {/* <Loader /> */}
+      <Loader />
       <BrowserRouter>
         <Nav />
         <Switch>

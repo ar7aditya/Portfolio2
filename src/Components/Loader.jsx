@@ -1,5 +1,5 @@
 import React from 'react'
-import LoaderImg from './img/Loader.gif'
+import LoaderImg from './img/ar7/greet.svg'
 import disableScroll from 'disable-scroll'
 
 const Loader = () => {
@@ -16,7 +16,6 @@ const Loader = () => {
         <div id="LoaderImg">
           <img src={LoaderImg} alt="Loading..." />
           <div id="LoaderDesc">
-            <h2>My Portfolio Loading Now Wait Some Second...</h2>
           </div>
         </div>
       </section>
