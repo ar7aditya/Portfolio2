@@ -1,7 +1,7 @@
 import ar7fitness from './img/ar7/ar7fitness.png'
 import Nodebus from './img/ar7/nodebus.png'
-import MusicPlayer from './img/musicPlayer.png'
 import Cryptoverse from './img/ar7/cryptoverse.png'
+import Realtor from './img/ar7/realtor.png'
 
 const SpData = [
   {
@@ -12,10 +12,10 @@ const SpData = [
     animate: 'fade-right',
   },
   {
-    title: 'Music Player',
-    desc: 'Ultimate music player made with pure Js',
-    LiveLink: 'https://ar7aditya.github.io/MuzicPlayer/',
-    src: MusicPlayer,
+    title: 'RealTor',
+    desc: 'A app to buy or rent a property with all the accomodation required',
+    LiveLink: 'https://cryptoverse-ar7.netlify.app/',
+    src: Realtor,
     animate: 'fade-left',
   },
   {
