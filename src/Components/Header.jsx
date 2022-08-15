@@ -92,7 +92,7 @@ const Home = () => {
                 class="btn btn-danger"
                 role="button"
                 target="_blank"
-                href="https://drive.google.com/file/d/1LFFupTlsb_ucuI6vWPZ_TY9phE71iKpE/view?usp=sharing"
+                href="https://drive.google.com/file/d/1LFFupTlsb_ucuI6vWPZ_TY9phE71iK"
               >
                 Resume 
               </a>
@@ -100,7 +100,7 @@ const Home = () => {
                 class="btn btn-danger"
                 role="button"
                 target="_blank"
-                href="https://drive.google.com/file/d/1OMAsFdRHwWjOfKULGNlxzS1AuMu9ZW-I/view?usp=sharing"
+                href="https://drive.google.com/file/d/1OMAsFdRHwWjOfKULGNlxzS1AuMu9ZW-"
               >
                  Cover Letter
               </a>
