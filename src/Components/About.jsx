@@ -37,7 +37,7 @@ const About = () => {
                 <p>
                   Hi there, Hope you are doing well. I am Aditya. I am a Junior Full
                   stack web developer. I love developing web Site. I have more than {myExperience} years of
-                  experinece as a Junior Full stack web developer. I have Designed and Developed
+                  experience as a Junior Full stack web developer. I have Designed and Developed
                   many websites. I am
                   pretty much comfortable doing these things.
                 </p>
