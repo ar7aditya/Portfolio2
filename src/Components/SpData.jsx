@@ -13,7 +13,7 @@ const SpData = [
   },
   {
     title: 'RealTor',
-    desc: 'A app to buy or rent a property with all the accomodation required',
+    desc: 'An app to buy or rent a property with all the accomodation required',
     LiveLink: 'https://cryptoverse-ar7.netlify.app/',
     src: Realtor,
     animate: 'fade-left',
